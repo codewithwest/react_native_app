@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246067459912",
+    "firebase_url": "https://project-learn-f2d19-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "project-learn-f2d19",
+    "storage_bucket": "project-learn-f2d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246067459912:android:a89784d932f3226c70e57d",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246067459912-pac5iuq9s81r5lccl018i1feqq8b6j7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU8Mq7R49yMZSTfP9tW44OZYgU7727EiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246067459912-pac5iuq9s81r5lccl018i1feqq8b6j7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
